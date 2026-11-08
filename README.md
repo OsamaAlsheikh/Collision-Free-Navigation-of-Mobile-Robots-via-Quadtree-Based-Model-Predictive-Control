@@ -1,0 +1,2 @@
+# Collision-Free-Navigation-of-Mobile-Robots-via-Quadtree-Based-Model-Predictive-Control
+This research integrates quadtree-based safe-area decomposition with Model Predictive Control (MPC) for collision-free robot navigation. It transforms non-convex obstacle avoidance into convex constraints, ensuring recursive feasibility, efficiency, and robustness in complex environments without direct obstacle modeling. 
